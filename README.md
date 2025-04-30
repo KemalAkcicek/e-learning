@@ -133,6 +133,3 @@ The application supports pagination and sorting for all list-returning endpoints
 
 ---
 
-## 📌 License
-
-This project is licensed under the MIT License.
