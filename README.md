@@ -33,7 +33,10 @@ Each endpoint is protected and accessible only by users with appropriate roles.
 
 ## 🧩 Entity Relationship Diagram (ERD)
 
-![Uploading image.png…]()
+The following is the Entity Relationship diagram illustrating the relationships between the system's models:
+
+![ERD](![image](https://github.com/user-attachments/assets/bbc2c24f-7fb5-4780-87a5-8ca4b5cb4739)
+)
 
 The system includes the following entities and relationships:
 
