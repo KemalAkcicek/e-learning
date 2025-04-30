@@ -33,6 +33,8 @@ Each endpoint is protected and accessible only by users with appropriate roles.
 
 ## 🧩 Entity Relationship Diagram (ERD)
 
+![Uploading image.png…]()
+
 The system includes the following entities and relationships:
 
 ### Entities:
